@@ -49,13 +49,13 @@ The tool processes input data through the following stages:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/case-analysis-tool.git
+   git clone https://github.com/Yu-hc/cases_tool
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd case-analysis-tool
+   cd cases_tool
    ```
 
 3. Install dependencies:
