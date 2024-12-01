@@ -39,9 +39,7 @@ The tool processes input data through the following stages:
 ### Prerequisites
 
 - **Node.js**: Ensure you have the latest stable version of Node.js installed.
-- **npm/yarn**: Package manager to install dependencies.
-- **Google Med API Key**: For diagnoses retrieval.
-- **PubMed API Key**: For research gathering.
+- **npm/yarn**: Package manager to install dependencies
 - **Gemini API Key**: For summarization functionality.
 
 ### Installation
